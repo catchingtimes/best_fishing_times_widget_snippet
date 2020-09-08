@@ -1,4 +1,4 @@
-# Catchingtimes.com - Best Fishing times snippet
+# Catchingtimes.com - Best Fishing Times Widget
 A code snippet to embed a widget which shows today's [best fishing times](https://www.catchingtimes.com) to a single location
 
 ## Usage
